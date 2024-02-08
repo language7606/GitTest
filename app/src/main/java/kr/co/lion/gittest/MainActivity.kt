@@ -9,5 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val a1 = 100
+        val a2 = 200
+        val a3 = 300
+
     }
 }
